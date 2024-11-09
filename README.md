@@ -5,3 +5,5 @@ this repository is created for learning and submitting weekly assignment of arew
 # SHORT BIO
 My name is ABDUL-MALIK BASHIR, and I'm a Arewa data science fellowship cohort 3!, learning Python for data science to become a data scientist. 
 TODAY IS THURSDAY TIME:11:00 PM  07/november/2024
+#heading 1
+## heading 2
